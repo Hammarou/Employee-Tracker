@@ -1,0 +1,11 @@
+CREATE TABLE public."Employees"
+(
+    id serial NOT NULL,
+    first_name character varying(30) NOT NULL,
+    last_name character varying(30) NOT NULL,
+    role_id integer NOT NULL,
+    PRIMARY KEY (id)
+);
+
+ALTER TABLE IF EXISTS public."Employees"
+    OWNER to postgres;
