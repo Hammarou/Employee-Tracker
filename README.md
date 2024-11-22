@@ -108,7 +108,7 @@ The **Employee Tracker** is a command-line application designed to help business
 
 To view a video demonstration of the application, please click the following link:
 
-https://drive.google.com/file/d/1RWcGZVNsi3KUsiXksPWhLE1Hheg9nTWo/view
+https://drive.google.com/file/d/1fAOE8NSzhSz-x52p9u88UTd0_jsRZX0D/view
 
 
 ## Application Screenshots
